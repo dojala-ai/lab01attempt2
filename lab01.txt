@@ -2,10 +2,8 @@ The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progres
 The 20 meter pacer test will begin in 30 seconds. Line up at the start.
 The running speed starts slowly, but gets faster each minute after you hear this signal.
 
-Somebody once told me the world is gonna roll me
-I ain't the sharpest tool in the shed
-She was lookin' kind of dumb with her finger and her thumb
-In the shape of an "L" on her forehead
+
+She was lookin' kind of dumb
 The years start comin' and they don't stop comin'
 Fed to the rules and hit the ground runnin'
 Didn't make sense not to live for fun
@@ -15,7 +13,7 @@ So what's wrong with takin' the backstreets
 You'll never know if you don't go
 You'll never shine if you don't glow
 Hey, now You're an all-star
-Get your game on, go play
+Get your game on, go play.
 Hey, now You're a rock star
 Get the show on, get paid
 And all that glitters is gold
